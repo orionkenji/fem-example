@@ -1,0 +1,9 @@
+document.querySelector('.calc-outer').addEventListener('click', function (event) {
+  alert(`You clicked on button ${event.target.innerText}`);
+});
+
+
+{ paragraph.innerText = input.value; }
+
+
+console.log(alert)
